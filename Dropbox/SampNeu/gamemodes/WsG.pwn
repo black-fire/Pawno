@@ -26,6 +26,7 @@
 ||=========================||============================||========================||
 ||================|| Scripter BlackFire (in der Woche ugf. 8 Std.)||===============||
 ||=========================||============================||========================||
+ghfg
 */
 
 // This is a comment
@@ -102,9 +103,9 @@ enum playerInformation
 	wanted,
 	age,
 	sex,
-	jailQ
-}dd
-ddddff
+	jail
+}
+
 enum playerCarInformation
 {
 	owner[MAX_PLAYER_NAME],
