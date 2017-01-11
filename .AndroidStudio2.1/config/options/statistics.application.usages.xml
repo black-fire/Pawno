@@ -1,0 +1,51 @@
+<application>
+  <component name="StatisticsApplicationUsages">
+    <group name="run-configuration-type">
+      <project id="WsGStempelKarte" values="AndroidRunConfigurationType" collectionTime="1474573383466" />
+      <project id="WsG Stempel Karte" values="AndroidRunConfigurationType" collectionTime="1472045616455" />
+      <project id="Reservierung" values="AndroidRunConfigurationType" collectionTime="1474562320780" />
+      <project id="Reserv" values="AndroidRunConfigurationType" collectionTime="1474573383985" />
+    </group>
+    <group name="module type">
+      <project id="WsGStempelKarte" values="JAVA_MODULE" collectionTime="1474573383465" />
+      <project id="WsG Stempel Karte" values="JAVA_MODULE" collectionTime="1472045616454" />
+      <project id="Reservierung" values="JAVA_MODULE" collectionTime="1474562320779" />
+      <project id="Reserv" values="JAVA_MODULE" collectionTime="1474573383984" />
+    </group>
+    <group name="file-type">
+      <project id="WsGStempelKarte" values="Properties,ProGuard File,ARCHIVE,AIDL,XML,Images,JAVA,UNKNOWN,Groovy,IDEA_MODULE,PLAIN_TEXT" collectionTime="1474573383579" />
+      <project id="WsG Stempel Karte" values="UNKNOWN,XML,Groovy,PLAIN_TEXT,JAVA,ARCHIVE,IDEA_MODULE,Images,AIDL,Properties,ProGuard File" collectionTime="1472045616506" />
+      <project id="Reservierung" values="Properties,PLAIN_TEXT,Groovy,UNKNOWN,Images,IDEA_MODULE,AIDL,ProGuard File,ARCHIVE,XML,JAVA" collectionTime="1474562320840" />
+      <project id="Reserv" values="XML,PLAIN_TEXT,ProGuard File,JAVA,Groovy,Images,IDEA_MODULE,AIDL,ARCHIVE,UNKNOWN,Properties" collectionTime="1474573384022" />
+    </group>
+    <group name="Git">
+      <project id="WsGStempelKarte" values="config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.push.update.all.roots.enabled,config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.repo.sync.NOT_DECIDED,config.push.autoupdate.disabled" collectionTime="1474573383591" />
+      <project id="WsG Stempel Karte" values="config.force.push.enabled,config.ssh.enabled,config.cherry-pick.autocommit.disabled,config.push.autoupdate.disabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.warn.about.crlf.enabled" collectionTime="1472045616519" />
+      <project id="Reservierung" values="config.force.push.enabled,config.push.update.all.roots.enabled,config.warn.about.detached.enabled,config.save.policy.STASH,config.repo.sync.NOT_DECIDED,config.update.type.BRANCH_DEFAULT,config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.warn.about.crlf.enabled" collectionTime="1474562320874" />
+      <project id="Reserv" values="config.ssh.enabled,config.push.autoupdate.disabled,config.cherry-pick.autocommit.disabled,config.push.update.all.roots.enabled,config.update.type.BRANCH_DEFAULT,config.save.policy.STASH,config.warn.about.crlf.enabled,config.repo.sync.NOT_DECIDED,config.warn.about.detached.enabled,config.force.push.enabled" collectionTime="1474573384024" />
+    </group>
+    <group name="frameworks">
+      <project id="WsGStempelKarte" values="android,java-gradle,android-gradle" collectionTime="1474573383465" />
+      <project id="WsG Stempel Karte" values="java-gradle,android,android-gradle" collectionTime="1472045616454" />
+      <project id="Reservierung" values="android-gradle,android,java-gradle" collectionTime="1474562320779" />
+      <project id="Reserv" values="java-gradle,android,android-gradle" collectionTime="1474573383984" />
+    </group>
+    <group name="language-level">
+      <project id="WsGStempelKarte" values="JDK_1_7,JDK_1_8" collectionTime="1474573383589" />
+      <project id="WsG Stempel Karte" values="JDK_1_7" collectionTime="1472045616518" />
+      <project id="Reservierung" values="JDK_1_8,JDK_1_7" collectionTime="1474562320858" />
+      <project id="Reserv" values="JDK_1_7" collectionTime="1474573384024" />
+    </group>
+  </component>
+  <component name="UsageTrigger">
+    <counts>
+      <entry feature="execute.AndroidRunConfigurationType.Run" count="70" />
+      <entry feature="ide.settings.Genymotion" count="1" />
+      <entry feature="ide.settings.Instant_Run" count="1" />
+      <entry feature="ide.settings.Plugins" count="2" />
+      <entry feature="ideaapp.started" count="10" />
+      <entry feature="tips.of.the.day.next" count="1" />
+      <entry feature="welcome.screen.WelcomeScreen.CreateNewProject" count="1" />
+    </counts>
+  </component>
+</application>

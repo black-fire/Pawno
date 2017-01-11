@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\compiler.xml" timestamp="1474562261279" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\copyright\profiles_settings.xml" timestamp="1474562261291" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\encodings.xml" timestamp="1474562261298" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\gradle.xml" timestamp="1474562270915" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\GenAsync.xml" timestamp="1474562270934" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\android_android_24.xml" timestamp="1474562270939" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\animated_vector_drawable_24_2_0.xml" timestamp="1474562270947" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\appcompat_v7_24_2_0.xml" timestamp="1474562270952" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\hamcrest_core_1_3.xml" timestamp="1474562270958" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\junit_4_12.xml" timestamp="1474562270966" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\support_annotations_24_2_0.xml" timestamp="1474562270971" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\support_compat_24_2_0.xml" timestamp="1474562270976" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\support_core_ui_24_2_0.xml" timestamp="1474562270982" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\support_core_utils_24_2_0.xml" timestamp="1474562270988" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\support_fragment_24_2_0.xml" timestamp="1474562271007" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\support_media_compat_24_2_0.xml" timestamp="1474562271013" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\support_v4_24_2_0.xml" timestamp="1474562271019" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\libraries\support_vector_drawable_24_2_0.xml" timestamp="1474562271027" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\misc.xml" timestamp="1474562478888" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\modules.xml" timestamp="1474562270921" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\runConfigurations.xml" timestamp="1474562270926" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\.idea\workspace.xml" timestamp="1474564176150" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\WsGStempelKarte.iml" timestamp="1471952376022" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\WsGStempelKarte\app\app.iml" timestamp="1474562249191" />
+  </project-files>
+</conversion>
+

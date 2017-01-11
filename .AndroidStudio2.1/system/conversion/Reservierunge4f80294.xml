@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<conversion>
+  <applied-converters>
+    <converter id="android-module-to-java-module" />
+    <converter id="android-proguard-options" />
+    <converter id="android-sdk-library" />
+    <converter id="groovy-modules-to-facets" />
+    <converter id="groovy-script-run-configurations" />
+  </applied-converters>
+  <project-files>
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\compiler.xml" timestamp="1474559633793" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\copyright\profiles_settings.xml" timestamp="1474559633810" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\encodings.xml" timestamp="1474559633820" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\gradle.xml" timestamp="1474559658547" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\GenAsync.xml" timestamp="1474559773921" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\android_android_24.xml" timestamp="1474559658591" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\animated_vector_drawable_24_2_0.xml" timestamp="1474559658603" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\appcompat_v7_24_2_0.xml" timestamp="1474559773926" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\design_24_2_0.xml" timestamp="1474559773932" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\hamcrest_core_1_3.xml" timestamp="1474559658632" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\junit_4_12.xml" timestamp="1474559658649" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\recyclerview_v7_24_2_0.xml" timestamp="1474559773938" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\support_annotations_24_2_0.xml" timestamp="1474559658671" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\support_compat_24_2_0.xml" timestamp="1474559773944" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\support_core_ui_24_2_0.xml" timestamp="1474559773950" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\support_core_utils_24_2_0.xml" timestamp="1474559658712" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\support_fragment_24_2_0.xml" timestamp="1474559773955" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\support_media_compat_24_2_0.xml" timestamp="1474559773960" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\support_v4_24_2_0.xml" timestamp="1474559658740" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\libraries\support_vector_drawable_24_2_0.xml" timestamp="1474559658753" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\misc.xml" timestamp="1474562016242" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\modules.xml" timestamp="1474559658559" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\runConfigurations.xml" timestamp="1474559658572" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\.idea\workspace.xml" timestamp="1474562316459" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\Reservierung.iml" timestamp="1474559658510" />
+    <file path="C:\Users\tobia\AndroidStudioProjects\Reservierung\app\app.iml" timestamp="1474559773879" />
+  </project-files>
+</conversion>
+
