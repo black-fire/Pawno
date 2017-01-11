@@ -102,7 +102,7 @@ enum playerInformation
 	wanted,
 	age,
 	sex,
-	jail
+	jailQ
 }dd
 dd
 enum playerCarInformation
