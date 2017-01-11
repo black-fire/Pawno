@@ -103,7 +103,7 @@ enum playerInformation
 	age,
 	sex,
 	jail
-}
+}dd
 dd
 enum playerCarInformation
 {
