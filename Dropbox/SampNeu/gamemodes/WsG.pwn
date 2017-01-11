@@ -104,7 +104,7 @@ enum playerInformation
 	sex,
 	jail
 }
-
+dd
 enum playerCarInformation
 {
 	owner[MAX_PLAYER_NAME],
